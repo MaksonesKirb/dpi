@@ -30,5 +30,9 @@ export default [
   {
     code: '1000111111101010101001110',
     keywords: 'dog',
+  },
+  {
+    code: '0000000001000101010001000',
+    keywords: 'ready, check, mark',
   }
 ]
