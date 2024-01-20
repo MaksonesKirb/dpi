@@ -34,5 +34,9 @@ export default [
   {
     code: '0001111110111100000001010',
     keywords: 'cart, shop'
+  }, 
+  {
+    code: '0000000001000101010001000',
+    keywords: 'check, mark, done'
   }
 ]
